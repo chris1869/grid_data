@@ -1,0 +1,6 @@
+Biomass assumptions;Category;Subcategory;Subsubcategory;Scenario A 2037;Scenario B 2037;Scenario C 2037;Scenario A 2045;Scenario B 2045;Scenario C 2045
+Installed power[GW];power_generation;Biomass;assumptions;4.5;4.5;4.5;2.0;2.0;2.0
+Annual gross growth [GW];power_generation;Biomass;assumptions;0.1;0.1;0.1;0.1;0.1;0.1
+Annual net growth [GW];power_generation;Biomass;assumptions;-0.3;-0.3;-0.3;-0.3;-0.3;-0.3
+Annual full load hours [h/y];power_generation;Biomass;assumptions;3000.0;3000.0;3000.0;3000.0;3000.0;3000.0
+Lifetime[y];power_generation;Biomass;assumptions;20.0;20.0;20.0;20.0;20.0;20.0

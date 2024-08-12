@@ -1,0 +1,25 @@
+transport_type;Variable;Category;Subcategory;Subsubcategory;Scenario A 2037;Scenario B 2037;Scenario C 2037;Scenario A 2045;Scenario B 2045;Scenario C 2045
+Electric car;Number of [mln];sector_coupling;ecars;general_transport_kpis_per_transport_type;19.0;25.0;25.0;29.0;32.0;32.0
+Electric car;Consumption [kWh/100km];sector_coupling;ecars;general_transport_kpis_per_transport_type;17.3;17.3;18.7;16.7;16.7;18.2
+Electric car;Annual mileage [km/y];sector_coupling;ecars;general_transport_kpis_per_transport_type;14000.0;14000.0;14000.0;14000.0;14000.0;14000.0
+Electric car;Consumption [TWh];sector_coupling;ecars;general_transport_kpis_per_transport_type;46.1;60.7;65.4;67.7;74.7;81.7
+Plug-in-hybrid;Number of [mln];sector_coupling;ecars;general_transport_kpis_per_transport_type;4.0;4.0;4.0;3.0;2.0;2.0
+Plug-in-hybrid;Consumption [kWh/100km];sector_coupling;ecars;general_transport_kpis_per_transport_type;16.8;16.8;18.1;16.2;16.2;17.7
+Plug-in-hybrid;Annual mileage [km/y];sector_coupling;ecars;general_transport_kpis_per_transport_type;14000.0;14000.0;14000.0;14000.0;14000.0;14000.0
+Plug-in-hybrid;thereof fully electric [km/y];sector_coupling;ecars;general_transport_kpis_per_transport_type;7000.0;7000.0;7000.0;7000.0;7000.0;7000.0
+Plug-in-hybrid;Consumption [TWh];sector_coupling;ecars;general_transport_kpis_per_transport_type;4.7;4.7;5.1;3.4;2.3;2.5
+Small trucks;Number of [mln];sector_coupling;ecars;general_transport_kpis_per_transport_type;2.0;2.4;2.4;2.6;2.9;2.9
+Small trucks;Consumption [kWh/100km];sector_coupling;ecars;general_transport_kpis_per_transport_type;31.6;31.6;33.4;30.7;30.7;33.0
+Small trucks;Annual mileage [km/y];sector_coupling;ecars;general_transport_kpis_per_transport_type;22000.0;22000.0;22000.0;22000.0;22000.0;22000.0
+Small trucks;Consumption [TWh];sector_coupling;ecars;general_transport_kpis_per_transport_type;13.9;16.7;17.6;17.5;19.6;21.0
+Large trucks;Number of [mln];sector_coupling;ecars;general_transport_kpis_per_transport_type;0.15;0.2;0.2;0.15;0.2;0.2
+Large trucks;Consumption [kWh/100km];sector_coupling;ecars;general_transport_kpis_per_transport_type;103.0;103.9;109.7;101.4;101.4;108.8
+Large trucks;Annual mileage [km/y];sector_coupling;ecars;general_transport_kpis_per_transport_type;100000.0;100000.0;100000.0;100000.0;100000.0;100000.0
+Large trucks;Consumption [TWh];sector_coupling;ecars;general_transport_kpis_per_transport_type;15.6;20.8;21.9;15.2;20.3;21.8
+Overheadline-hybrid-trucks;Number of [mln];sector_coupling;ecars;general_transport_kpis_per_transport_type;0.0;0.1;0.1;0.0;0.2;0.2
+Overheadline-hybrid-trucks;Consumption [kWh/100km];sector_coupling;ecars;general_transport_kpis_per_transport_type;137.3;137.3;145.0;134.1;134.1;143.9
+Overheadline-hybrid-trucks;Annual mileage [km/y];sector_coupling;ecars;general_transport_kpis_per_transport_type;100000.0;100000.0;100000.0;100000.0;100000.0;100000.0
+Overheadline-hybrid-trucks;Consumption [TWh];sector_coupling;ecars;general_transport_kpis_per_transport_type;0.0;13.7;14.5;0.0;26.8;28.8
+Rail;Consumption [TWh];sector_coupling;ecars;general_transport_kpis_per_transport_type;12.0;12.5;13.0;12.0;14.0;14.0
+Bus;Consumption [TWh];sector_coupling;ecars;general_transport_kpis_per_transport_type;1.0;2.0;3.0;3.0;3.0;3.0
+All;Total consumption [TWh];sector_coupling;ecars;general_transport_kpis_per_transport_type;93.4;131.1;140.6;118.8;160.6;172.8

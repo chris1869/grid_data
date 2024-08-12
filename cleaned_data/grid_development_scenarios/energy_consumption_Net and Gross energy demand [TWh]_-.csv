@@ -1,0 +1,3 @@
+Energy source;Category;Subcategory;Subsubcategory;As-is 2020/21;Scenario A 2037;Scenario B 2037;Scenario C 2037;Scenario A 2045;Scenario B 2045;Scenario C 2045
+net energy demand;energy_consumption;Net and Gross energy demand [TWh];empty;478.0;828.0;891.0;982.0;999.0;1025.0;1222.0
+gross energy demand;energy_consumption;Net and Gross energy demand [TWh];empty;533.0;899.0;961.0;1053.0;1079.0;1106.0;1303.0

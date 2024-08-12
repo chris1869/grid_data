@@ -1,0 +1,9 @@
+Energy source [GW];Category;Subcategory;Subsubcategory;As-is May 2022;Deconstruction until 2037;Deconstruction until 2045;Being built;In planning;Scenario A 2037;Scenario B 2037;Scenario C 2037;Scenario A 2045;Scenario B 2045;Scenario C 2045
+Nuclear;power_generation;fossils;generation[GW];4.1;4.1;4.1;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Fossil brown coal / lignite;power_generation;fossils;generation[GW];18.9;18.9;18.9;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Fossil hard coal;power_generation;fossils;generation[GW];19.0;19.0;19.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Fossil gas;power_generation;fossils;generation[GW];32.1;1.4;5.2;3.5;4.1;38.4;38.4;38.4;34.6;34.6;34.6
+Fossil oil;power_generation;fossils;generation[GW];4.7;4.7;4.7;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+Waste(non-bio);power_generation;fossils;generation[GW];1.0;0.0;0.0;0.0;0.0;1.0;1.0;1.0;1.0;1.0;1.0
+Hydro pumped storage;power_generation;fossils;generation[GW];9.8;0.0;0.0;0.1;1.2;11.1;11.1;11.1;11.1;11.1;11.1
+Others;power_generation;fossils;generation[GW];3.3;3.3;3.3;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0

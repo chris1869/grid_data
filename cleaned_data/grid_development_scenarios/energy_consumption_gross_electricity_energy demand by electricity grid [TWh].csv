@@ -1,0 +1,5 @@
+main_source;sub_component;Category;Subcategory;Subsubcategory;Scenario A 2037;Scenario B 2037;Scenario C 2037;Scenario A 2045;Scenario B 2045;Scenario C 2045
+Grid losses;Distribution;energy_consumption;gross_electricity;energy demand by electricity grid [TWh];34.8;34.8;34.8;34.8;34.8;34.8
+Grid losses;Transmission;energy_consumption;gross_electricity;energy demand by electricity grid [TWh];30.0;30.0;30.0;40.0;40.0;40.0
+Grid losses;Storage_Batteries;energy_consumption;gross_electricity;energy demand by electricity grid [TWh];3.7;3.8;4.1;4.7;5.3;5.3
+Power plants;Self-consumption;energy_consumption;gross_electricity;energy demand by electricity grid [TWh];2.0;2.0;2.0;1.0;1.0;1.0

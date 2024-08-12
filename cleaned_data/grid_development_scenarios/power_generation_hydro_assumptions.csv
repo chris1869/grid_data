@@ -1,0 +1,4 @@
+Hydro assumptions;Category;Subcategory;Subsubcategory;Scenario A 2037;Scenario B 2037;Scenario C 2037;Scenario A 2045;Scenario B 2045;Scenario C 2045
+Installed power[GW];power_generation;Hydro;assumptions;5.3;5.3;5.3;5.3;5.3;5.3
+Annual full load hours Run-of-River[h/y];power_generation;Hydro;assumptions;4400.0;4400.0;4400.0;4400.0;4400.0;4400.0
+Annual full load hours hydro storage [h/y];power_generation;Hydro;assumptions;2800.0;2800.0;2800.0;2800.0;2800.0;2800.0

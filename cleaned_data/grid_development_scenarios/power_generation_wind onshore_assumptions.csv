@@ -1,0 +1,6 @@
+Wind onshore assumptions;Category;Subcategory;Subsubcategory;Scenario A 2037;Scenario B 2037;Scenario C 2037;Scenario A 2045;Scenario B 2045;Scenario C 2045
+Installed power[GW];power_generation;Wind onshore;assumptions;158.2;158.2;161.6;160.0;160.0;180.0
+Annual gross growth [GW];power_generation;Wind onshore;assumptions;8.7;8.7;8.9;7.3;7.3;8.1
+Annual net growth [GW];power_generation;Wind onshore;assumptions;6.4;6.4;6.6;4.3;4.3;5.2
+Annual full load hours [h/y];power_generation;Wind onshore;assumptions;2400.0;2400.0;2400.0;2500.0;2500.0;2500.0
+Lifetime[y];power_generation;Wind onshore;assumptions;22.0;22.0;22.0;22.0;22.0;22.0

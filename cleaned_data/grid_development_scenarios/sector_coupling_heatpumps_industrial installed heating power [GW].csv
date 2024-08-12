@@ -1,0 +1,3 @@
+Heating type;Category;Subcategory;Subsubcategory;Scenario A 2037;Scenario B 2037;Scenario C 2037;Scenario A 2045;Scenario B 2045;Scenario C 2045
+Industrial-sized heatpumps [GW];sector_coupling;heatpumps;industrial installed heating power [GW];7.6;6.1;12.0;8.0;6.6;13.2
+Electrode heating [GW];sector_coupling;heatpumps;industrial installed heating power [GW];5.0;10.0;10.0;6.9;13.8;13.8

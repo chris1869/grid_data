@@ -1,0 +1,8 @@
+Energy source;Category;Subcategory;Subsubcategory;Factors
+Waste (excl. 50% biogenic waste);markets;emissions;energy source factors [tCO2 per MWh_th];0.165
+Fossil brown coal / lignite;markets;emissions;energy source factors [tCO2 per MWh_th];0.393
+Fossil hard coal;markets;emissions;energy source factors [tCO2 per MWh_th];0.337
+Fossil gas;markets;emissions;energy source factors [tCO2 per MWh_th];0.201
+Hydrogen;markets;emissions;energy source factors [tCO2 per MWh_th];0.0
+Nuclear;markets;emissions;energy source factors [tCO2 per MWh_th];0.0
+Fossil oil;markets;emissions;energy source factors [tCO2 per MWh_th];0.287

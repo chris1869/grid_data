@@ -1,0 +1,6 @@
+Energy source;Category;Subcategory;Subsubcategory;Scenario A 2037;Scenario A 2045;Scenario B 2037;Scenario B 2045;Scenario C 2037;Scenario C 2045
+Fossil oil;markets;Energy prices [EUR per MWh];empty;35.1;33.7;35.1;33.7;35.1;33.7
+Fossil gas;markets;Energy prices [EUR per MWh];empty;19.4;19.4;19.4;19.4;19.4;19.4
+Fossil hard coal;markets;Energy prices [EUR per MWh];empty;6.9;6.7;6.9;6.7;6.9;6.7
+Fossil brown coal / lignite;markets;Energy prices [EUR per MWh];empty;6.5;6.5;6.5;6.5;6.5;6.5
+Nuclear;markets;Energy prices [EUR per MWh];empty;1.7;1.7;1.7;1.7;1.7;1.7

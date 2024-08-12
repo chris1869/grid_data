@@ -1,0 +1,6 @@
+Solar assumptions;Category;Subcategory;Subsubcategory;Scenario A 2037;Scenario B 2037;Scenario C 2037;Scenario A 2045;Scenario B 2045;Scenario C 2045
+Installed power[GW];power_generation;Solar;assumptions;345.4;345.4;345.4;400.0;400.0;445.0
+Annual gross growth [GW];power_generation;Solar;assumptions;19.7;19.7;19.7;16.8;16.8;18.6
+Annual net growth [GW];power_generation;Solar;assumptions;17.9;17.9;17.9;14.2;14.2;16.1
+Annual full load hours [h/y];power_generation;Solar;assumptions;950.0;950.0;950.0;950.0;950.0;950.0
+Lifetime[y];power_generation;Solar;assumptions;25.0;25.0;25.0;25.0;25.0;25.0

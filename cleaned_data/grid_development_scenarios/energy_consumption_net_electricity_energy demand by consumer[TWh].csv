@@ -1,0 +1,11 @@
+main_source;sub_component;Category;Subcategory;Subsubcategory;Scenario A 2037;Scenario B 2037;Scenario C 2037;Scenario A 2045;Scenario B 2045;Scenario C 2045
+Households;thereof appliances;energy_consumption;net_electricity;energy demand by consumer[TWh];104.0;104.0;114.3;90.4;90.4;114.3
+Households;thereof heatpumps;energy_consumption;net_electricity;energy demand by consumer[TWh];52.9;52.9;68.9;53.0;53.0;71.4
+CommerceTradeService;thereof data centers;energy_consumption;net_electricity;energy demand by consumer[TWh];50.0;50.0;50.0;50.0;50.0;50.0
+CommerceTradeService;thereof heatpumps;energy_consumption;net_electricity;energy demand by consumer[TWh];14.9;14.9;19.3;14.6;14.6;19.7
+CommerceTradeService;thereof appliances;energy_consumption;net_electricity;energy demand by consumer[TWh];103.1;103.1;116.6;96.9;96.9;116.6
+Industrial;All;energy_consumption;net_electricity;energy demand by consumer[TWh];267.5;334.0;352.0;310.5;382.9;469.0
+Traffic;All;energy_consumption;net_electricity;energy demand by consumer[TWh];93.4;131.1;140.6;118.8;160.6;172.8
+Electrolysis;All;energy_consumption;net_electricity;energy demand by consumer[TWh];120.0;78.0;84.0;240.0;150.0;165.0
+District heat;thereof electrode heating;energy_consumption;net_electricity;energy demand by consumer[TWh];4.0;8.0;8.0;5.5;11.0;11.0
+District heat;thereof industrial-sized heatpumps;energy_consumption;net_electricity;energy demand by consumer[TWh];18.2;14.6;28.7;19.1;15.9;31.8

@@ -1,0 +1,14 @@
+Energy source;Category;Subcategory;Subsubcategory;As-is 2020/21;Scenario A 2037;Scenario B 2037;Scenario C 2037;Scenario A 2045;Scenario B 2045;Scenario C 2045
+Nuclear;power_generation;all_sources;Installed power [GW];4.1;0.0;0.0;0.0;0.0;0.0;0.0
+Fossil brown coal / lignite;power_generation;all_sources;Installed power [GW];18.9;0.0;0.0;0.0;0.0;0.0;0.0
+Fossil hard coal;power_generation;all_sources;Installed power [GW];19.0;0.0;0.0;0.0;0.0;0.0;0.0
+Fossil gas;power_generation;all_sources;Installed power [GW];32.1;38.4;38.4;38.4;34.6;34.6;34.6
+Fossil oil;power_generation;all_sources;Installed power [GW];4.7;0.0;0.0;0.0;0.0;0.0;0.0
+Hydro pumped storage;power_generation;all_sources;Installed power [GW];9.8;11.1;11.1;11.1;11.1;11.1;11.1
+Others;power_generation;all_sources;Installed power [GW];4.3;1.0;1.0;1.0;1.0;1.0;1.0
+Wind onshore;power_generation;all_sources;Installed power [GW];56.1;158.2;158.2;161.6;160.0;160.0;180.0
+Wind offshore;power_generation;all_sources;Installed power [GW];7.8;50.5;58.5;58.5;70.0;70.0;70.0
+Solar;power_generation;all_sources;Installed power [GW];59.3;345.4;345.4;345.4;400.0;400.0;445.0
+Biomass;power_generation;all_sources;Installed power [GW];9.5;4.5;4.5;4.5;2.0;2.0;2.0
+Hydro;power_generation;all_sources;Installed power [GW];4.9;5.3;5.3;5.3;5.3;5.3;5.3
+Other renewables;power_generation;all_sources;Installed power [GW];1.1;1.0;1.0;1.0;1.0;1.0;1.0
