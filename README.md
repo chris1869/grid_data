@@ -1,7 +1,6 @@
 # grid_data
-The energy transition to clean and renewable energy is critical for our planet. Therefore, taking the right policy decisions and understanding the progress of policy adoption is essential to accelerate. This repository provides a comprehensive set of 
+The energy transition to clean and renewable energy is critical for our planet. Therefore, taking the right policy decisions and understanding the progress of policy adoption is essential to accelerate. This repository provides a comprehensive set of data sources to analyze the German energy market.
 
-This repository aims to provide a comprehensive set of data sources to analyze the German energy market.
 - Historic german power generation from 2010 to 2023 [Check out the data folder](https://github.com/chris1869/grid_data/blob/main/cleaned_data/german_grid_history)
 
 - Historic german installed power capacity from 2010 to 2023 [Check out the data folder](https://github.com/chris1869/grid_data/blob/main/cleaned_data/german_grid_history)
